@@ -1,3 +1,3 @@
 # hello-world
 
-This is the readme file.  I'm following the getting started tutorial.
+This is the __readme file__.  I'm following the *getting started* tutorial.
